@@ -27,4 +27,11 @@ Creamos el documento HTML con estilos para poder visualizar el chat en tiempo re
 
 
 ### Socket.io
-Utilizamos socket.io para poder crear el web socket que utilizaré para el mensaje
+Uso socket.io para poder crear el web socket que utilizaré para el mensaje
+
+### En resumen
+
+Pude crear un chat en tiempo real el cual a través de la información que comparte el usuario en un imput, es comunicado con el servidor y con otro usuario.
+
+Las pruebas se realizaron con una API que genera usarios randoms para probrar el funcionamiento de la misma. 
+Lo mas desafiante fue la conexión con la base de datos.
